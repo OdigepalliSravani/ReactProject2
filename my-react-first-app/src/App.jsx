@@ -19,6 +19,7 @@ function App() {
   const remainingItems1 = items.filter(item => item.cate !== 'non-veg');
   return (
     <>
+    <h1>Some one is modified</h1>
     <h1>hello world saturday</h1>
       <h1>Filtered Items</h1>
 
